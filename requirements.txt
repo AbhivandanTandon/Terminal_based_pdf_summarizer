@@ -1,0 +1,9 @@
+pdfplumber
+PyPDF2
+transformers
+torch
+sentencepiece
+scikit-learn
+numpy
+spacy
+
